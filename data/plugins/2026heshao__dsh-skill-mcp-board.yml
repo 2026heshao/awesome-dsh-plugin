@@ -1,0 +1,6 @@
+url: https://github.com/2026heshao/dsh-skill-mcp-board
+name: 2026heshao/dsh-skill-mcp-board
+category: dev
+description:
+  en: 'Unified Skill and MCP board for the DSH web UI: a floating or sidebar panel to inspect connection status and tool schemas, add, edit, enable, disable and remove MCP servers at global or per-project scope, import configs from other AI clients, browse a curated MCP market, with write-to-disk project config that takes effect for live sessions without a restart.'
+  zh: 'DSH Web 的 Skill 与 MCP 统一看板：悬浮按钮或侧栏打开面板，查看连接状态与工具 Schema，在全局与项目双作用域下增删改查、启停 MCP 服务器，从其他 AI 客户端导入配置，内置逐条核实的 MCP 市场；项目级配置写盘即对存活会话生效，无需重启。'
